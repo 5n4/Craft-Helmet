@@ -9,6 +9,11 @@
 		<!--head-->
 		<?php require 'header.php';?>
 		<!--body-->
+		<div class="contactPage">
+			<p>
+				To view the files download Pepakura Viewer from this link.
+			</p>
+		</div>
 		<!--footer-->
 		<?php include 'footer.php';?>
 	</body>
